@@ -1,0 +1,9 @@
+#Sun Dec 08 10:13:07 IST 2019
+platform=GENERIC
+last.test=ANDROID_APPIUM_STUDIO
+version=1
+mobile=true
+translator=Java (TestNG + Appium Client 4)
+default.ios.user=root
+default.ios.password=alpine
+app.name=ios_app\:Priyanka Sengar’s iPhone

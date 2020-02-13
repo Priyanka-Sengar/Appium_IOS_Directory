@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><commands version="12.11">
+<command appium="true" appiumName="FindElement and SendKeys(Element, Text)" enable="true" name="ElementSendText(Zone, Element, Index, Text)" x="96" y="398">
+<parameters>
+<parameter appium="false" defaultValue="NATIVE" description="Select Zone" name="Zone" pattern="" type="zone_no_ocr"/>
+<parameter appium="true" defaultValue="xpath=//*[@id='editText' and ./parent::*[./parent::*[./parent::*[./parent::*[@id='textFieldLogin']]]]]" description="Select Element" name="Element" pattern="" type="string"/>
+<parameter appium="false" defaultValue="0" description="Element index" name="Index" pattern="" type="integer"/>
+<parameter appium="true" defaultValue="mwalton" description="Text to Send" name="Text" pattern="" type="string"/>
+</parameters>
+</command>
+<command appium="true" appiumName="WaitForElementPresence(Element, Timeout)" enable="true" name="WaitForElement(Zone, Element, Index, Timeout)">
+<parameters>
+<parameter appium="false" defaultValue="NATIVE" description="Select Zone" name="Zone" pattern="" type="zone"/>
+<parameter appium="true" defaultValue="xpath=//*[@id='editText' and ./parent::*[./parent::*[./parent::*[./parent::*[@id='textFieldPassword']]]]]" description="Select Element to Wait For" name="Element" pattern="" type="string"/>
+<parameter appium="false" defaultValue="0" description="Element Order" name="Index" pattern="" type="integer"/>
+<parameter appium="true" defaultValue="120000" description="Waiting Timeout in MiliSec" name="Timeout" pattern="" type="integer"/>
+</parameters>
+</command>
+<command appium="true" appiumName="FindElement and Click(Element)" enable="true" name="Click(Zone, Element, Index, ClickCount)" x="96" y="597">
+<parameters>
+<parameter appium="false" defaultValue="NATIVE" description="Select Zone" name="Zone" pattern="" type="zone"/>
+<parameter appium="true" defaultValue="xpath=//*[@id='editText' and ./parent::*[./parent::*[./parent::*[./parent::*[@id='textFieldPassword']]]]]" description="Select Element" name="Element" pattern="" type="string"/>
+<parameter appium="false" defaultValue="0" description="Element Order" name="Index" pattern="" type="integer"/>
+<parameter appium="false" defaultValue="1" description="Number of Clicks" name="Click Count" pattern="" type="integer"/>
+</parameters>
+</command>
+</commands>

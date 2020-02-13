@@ -1,0 +1,2414 @@
+<?xml version="1.0" encoding="UTF-8"?><nodes ignored="true" web="false">
+<properties>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="1334" ignored="false" w="750" web="false" x="0" y="0">
+<properties>
+<property type="tag" value="0"/>
+<property type="class" value="UIWindow"/>
+<property type="knownSuperClass" value="UIWindow"/>
+<property type="alpha" value="1"/>
+<property type="backgroundColor" value="0x000000"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="0"/>
+<property type="width" value="750"/>
+<property type="height" value="1334"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="1334" ignored="false" w="750" web="false" x="0" y="0">
+<properties>
+<property type="tag" value="0"/>
+<property type="class" value="UILayoutContainerView"/>
+<property type="alpha" value="1"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="0"/>
+<property type="width" value="750"/>
+<property type="height" value="1334"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="1334" ignored="false" w="750" web="false" x="0" y="0">
+<properties>
+<property type="tag" value="0"/>
+<property type="class" value="UINavigationTransitionView"/>
+<property type="alpha" value="1"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="0"/>
+<property type="width" value="750"/>
+<property type="height" value="1334"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="1334" ignored="false" w="750" web="false" x="0" y="0">
+<properties>
+<property type="tag" value="0"/>
+<property type="class" value="UIViewControllerWrapperView"/>
+<property type="alpha" value="1"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="0"/>
+<property type="width" value="750"/>
+<property type="height" value="1334"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="1334" ignored="false" w="750" web="false" x="0" y="0">
+<properties>
+<property type="tag" value="0"/>
+<property type="class" value="UIView"/>
+<property type="alpha" value="1"/>
+<property type="backgroundColor" value="0xF2F2F7"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="0"/>
+<property type="width" value="750"/>
+<property type="height" value="1334"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="1086" ignored="false" w="750" web="false" x="0" y="248">
+<properties>
+<property type="tag" value="0"/>
+<property type="class" value="UICollectionView"/>
+<property type="knownSuperClass" value="UIScrollView"/>
+<property type="alpha" value="1"/>
+<property type="backgroundColor" value="0xE7F4F4"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="248"/>
+<property type="width" value="750"/>
+<property type="height" value="1086"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="428" ignored="false" w="350" web="false" x="12" y="192">
+<properties>
+<property type="tag" value="0"/>
+<property type="class" value="Daxko_Fit.ShopCollectionViewCell"/>
+<property type="alpha" value="1"/>
+<property type="enabled" value="true"/>
+<property type="x" value="12"/>
+<property type="y" value="192"/>
+<property type="width" value="350"/>
+<property type="height" value="428"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="428" ignored="false" w="350" web="false" x="12" y="192">
+<properties>
+<property type="tag" value="0"/>
+<property type="class" value="UIView"/>
+<property type="alpha" value="1"/>
+<property type="enabled" value="true"/>
+<property type="x" value="12"/>
+<property type="y" value="192"/>
+<property type="width" value="350"/>
+<property type="height" value="428"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="388" ignored="false" w="310" web="false" x="32" y="212">
+<properties>
+<property type="tag" value="0"/>
+<property type="class" value="UIView"/>
+<property type="alpha" value="1"/>
+<property type="backgroundColor" value="0x000000"/>
+<property type="enabled" value="true"/>
+<property type="x" value="32"/>
+<property type="y" value="212"/>
+<property type="width" value="310"/>
+<property type="height" value="388"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="260" ignored="false" w="310" web="false" x="32" y="212">
+<properties>
+<property type="tag" value="0"/>
+<property type="class" value="UIImageView"/>
+<property type="knownSuperClass" value="UIImageView"/>
+<property type="alpha" value="1"/>
+<property type="backgroundColor" value="0xFFFFFF"/>
+<property type="enabled" value="false"/>
+<property type="x" value="32"/>
+<property type="y" value="212"/>
+<property type="width" value="310"/>
+<property type="height" value="260"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children/>
+</node>
+<node h="128" ignored="false" w="310" web="false" x="32" y="472">
+<properties>
+<property type="tag" value="0"/>
+<property type="class" value="Daxko_Fit.GradientView"/>
+<property type="alpha" value="1"/>
+<property type="backgroundColor" value="0x000000"/>
+<property type="enabled" value="true"/>
+<property type="x" value="32"/>
+<property type="y" value="472"/>
+<property type="width" value="310"/>
+<property type="height" value="128"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="128" ignored="false" w="310" web="false" x="32" y="472">
+<properties>
+<property type="tag" value="0"/>
+<property type="class" value="UIStackView"/>
+<property type="alpha" value="1"/>
+<property type="enabled" value="true"/>
+<property type="x" value="32"/>
+<property type="y" value="472"/>
+<property type="width" value="310"/>
+<property type="height" value="128"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children>
+<node h="58" ignored="false" w="310" web="false" x="32" y="472">
+<properties>
+<property type="accessibilityLabel" value="Hero Kyoto 26T Single Speed Cycle"/>
+<property type="text" value="Hero Kyoto 26T Single Speed Cycle"/>
+<property type="tag" value="0"/>
+<property type="class" value="UILabel"/>
+<property type="knownSuperClass" value="UILabel"/>
+<property type="alpha" value="1"/>
+<property type="textColor" value="0x000000"/>
+<property type="enabled" value="true"/>
+<property type="x" value="32"/>
+<property type="y" value="472"/>
+<property type="width" value="310"/>
+<property type="height" value="58"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children/>
+</node>
+<node h="58" ignored="false" w="310" web="false" x="32" y="542">
+<properties>
+<property type="accessibilityLabel" value="$ 4999"/>
+<property type="text" value="$ 4999"/>
+<property type="tag" value="0"/>
+<property type="class" value="UILabel"/>
+<property type="knownSuperClass" value="UILabel"/>
+<property type="alpha" value="1"/>
+<property type="textColor" value="0x000000"/>
+<property type="enabled" value="true"/>
+<property type="x" value="32"/>
+<property type="y" value="542"/>
+<property type="width" value="310"/>
+<property type="height" value="58"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+<node h="428" ignored="false" w="350" web="false" x="386" y="192">
+<properties>
+<property type="tag" value="0"/>
+<property type="class" value="Daxko_Fit.ShopCollectionViewCell"/>
+<property type="alpha" value="1"/>
+<property type="enabled" value="true"/>
+<property type="x" value="386"/>
+<property type="y" value="192"/>
+<property type="width" value="350"/>
+<property type="height" value="428"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="428" ignored="false" w="350" web="false" x="386" y="192">
+<properties>
+<property type="tag" value="0"/>
+<property type="class" value="UIView"/>
+<property type="alpha" value="1"/>
+<property type="enabled" value="true"/>
+<property type="x" value="386"/>
+<property type="y" value="192"/>
+<property type="width" value="350"/>
+<property type="height" value="428"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="388" ignored="false" w="310" web="false" x="406" y="212">
+<properties>
+<property type="tag" value="0"/>
+<property type="class" value="UIView"/>
+<property type="alpha" value="1"/>
+<property type="backgroundColor" value="0x000000"/>
+<property type="enabled" value="true"/>
+<property type="x" value="406"/>
+<property type="y" value="212"/>
+<property type="width" value="310"/>
+<property type="height" value="388"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="260" ignored="false" w="310" web="false" x="406" y="212">
+<properties>
+<property type="tag" value="0"/>
+<property type="class" value="UIImageView"/>
+<property type="knownSuperClass" value="UIImageView"/>
+<property type="alpha" value="1"/>
+<property type="backgroundColor" value="0xFFFFFF"/>
+<property type="enabled" value="false"/>
+<property type="x" value="406"/>
+<property type="y" value="212"/>
+<property type="width" value="310"/>
+<property type="height" value="260"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children/>
+</node>
+<node h="128" ignored="false" w="310" web="false" x="406" y="472">
+<properties>
+<property type="tag" value="0"/>
+<property type="class" value="Daxko_Fit.GradientView"/>
+<property type="alpha" value="1"/>
+<property type="backgroundColor" value="0x000000"/>
+<property type="enabled" value="true"/>
+<property type="x" value="406"/>
+<property type="y" value="472"/>
+<property type="width" value="310"/>
+<property type="height" value="128"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="128" ignored="false" w="310" web="false" x="406" y="472">
+<properties>
+<property type="tag" value="0"/>
+<property type="class" value="UIStackView"/>
+<property type="alpha" value="1"/>
+<property type="enabled" value="true"/>
+<property type="x" value="406"/>
+<property type="y" value="472"/>
+<property type="width" value="310"/>
+<property type="height" value="128"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children>
+<node h="58" ignored="false" w="310" web="false" x="406" y="472">
+<properties>
+<property type="accessibilityLabel" value="Hero Next 24T 18 Speed Mountain Cycle"/>
+<property type="text" value="Hero Next 24T 18 Speed Mountain Cycle"/>
+<property type="tag" value="0"/>
+<property type="class" value="UILabel"/>
+<property type="knownSuperClass" value="UILabel"/>
+<property type="alpha" value="1"/>
+<property type="textColor" value="0x000000"/>
+<property type="enabled" value="true"/>
+<property type="x" value="406"/>
+<property type="y" value="472"/>
+<property type="width" value="310"/>
+<property type="height" value="58"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children/>
+</node>
+<node h="58" ignored="false" w="310" web="false" x="406" y="542">
+<properties>
+<property type="accessibilityLabel" value="$ 7862"/>
+<property type="text" value="$ 7862"/>
+<property type="tag" value="0"/>
+<property type="class" value="UILabel"/>
+<property type="knownSuperClass" value="UILabel"/>
+<property type="alpha" value="1"/>
+<property type="textColor" value="0x000000"/>
+<property type="enabled" value="true"/>
+<property type="x" value="406"/>
+<property type="y" value="542"/>
+<property type="width" value="310"/>
+<property type="height" value="58"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+<node h="428" ignored="false" w="350" web="false" x="12" y="644">
+<properties>
+<property type="tag" value="0"/>
+<property type="class" value="Daxko_Fit.ShopCollectionViewCell"/>
+<property type="alpha" value="1"/>
+<property type="enabled" value="true"/>
+<property type="x" value="12"/>
+<property type="y" value="644"/>
+<property type="width" value="350"/>
+<property type="height" value="428"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="428" ignored="false" w="350" web="false" x="12" y="644">
+<properties>
+<property type="tag" value="0"/>
+<property type="class" value="UIView"/>
+<property type="alpha" value="1"/>
+<property type="enabled" value="true"/>
+<property type="x" value="12"/>
+<property type="y" value="644"/>
+<property type="width" value="350"/>
+<property type="height" value="428"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="388" ignored="false" w="310" web="false" x="32" y="664">
+<properties>
+<property type="tag" value="0"/>
+<property type="class" value="UIView"/>
+<property type="alpha" value="1"/>
+<property type="backgroundColor" value="0x000000"/>
+<property type="enabled" value="true"/>
+<property type="x" value="32"/>
+<property type="y" value="664"/>
+<property type="width" value="310"/>
+<property type="height" value="388"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="260" ignored="false" w="310" web="false" x="32" y="664">
+<properties>
+<property type="tag" value="0"/>
+<property type="class" value="UIImageView"/>
+<property type="knownSuperClass" value="UIImageView"/>
+<property type="alpha" value="1"/>
+<property type="backgroundColor" value="0xFFFFFF"/>
+<property type="enabled" value="false"/>
+<property type="x" value="32"/>
+<property type="y" value="664"/>
+<property type="width" value="310"/>
+<property type="height" value="260"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children/>
+</node>
+<node h="128" ignored="false" w="310" web="false" x="32" y="924">
+<properties>
+<property type="tag" value="0"/>
+<property type="class" value="Daxko_Fit.GradientView"/>
+<property type="alpha" value="1"/>
+<property type="backgroundColor" value="0x000000"/>
+<property type="enabled" value="true"/>
+<property type="x" value="32"/>
+<property type="y" value="924"/>
+<property type="width" value="310"/>
+<property type="height" value="128"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="128" ignored="false" w="310" web="false" x="32" y="924">
+<properties>
+<property type="tag" value="0"/>
+<property type="class" value="UIStackView"/>
+<property type="alpha" value="1"/>
+<property type="enabled" value="true"/>
+<property type="x" value="32"/>
+<property type="y" value="924"/>
+<property type="width" value="310"/>
+<property type="height" value="128"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children>
+<node h="58" ignored="false" w="310" web="false" x="32" y="924">
+<properties>
+<property type="accessibilityLabel" value="Ketsaal Spider Protein Shaker Bottle 500ml with 2 Storage Extra Compartment for Gym"/>
+<property type="text" value="Ketsaal Spider Protein Shaker Bottle 500ml with 2 Storage Extra Compartment for Gym"/>
+<property type="tag" value="0"/>
+<property type="class" value="UILabel"/>
+<property type="knownSuperClass" value="UILabel"/>
+<property type="alpha" value="1"/>
+<property type="textColor" value="0x000000"/>
+<property type="enabled" value="true"/>
+<property type="x" value="32"/>
+<property type="y" value="924"/>
+<property type="width" value="310"/>
+<property type="height" value="58"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children/>
+</node>
+<node h="58" ignored="false" w="310" web="false" x="32" y="994">
+<properties>
+<property type="accessibilityLabel" value="$ 234"/>
+<property type="text" value="$ 234"/>
+<property type="tag" value="0"/>
+<property type="class" value="UILabel"/>
+<property type="knownSuperClass" value="UILabel"/>
+<property type="alpha" value="1"/>
+<property type="textColor" value="0x000000"/>
+<property type="enabled" value="true"/>
+<property type="x" value="32"/>
+<property type="y" value="994"/>
+<property type="width" value="310"/>
+<property type="height" value="58"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+<node h="428" ignored="false" w="350" web="false" x="386" y="644">
+<properties>
+<property type="tag" value="0"/>
+<property type="class" value="Daxko_Fit.ShopCollectionViewCell"/>
+<property type="alpha" value="1"/>
+<property type="enabled" value="true"/>
+<property type="x" value="386"/>
+<property type="y" value="644"/>
+<property type="width" value="350"/>
+<property type="height" value="428"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="428" ignored="false" w="350" web="false" x="386" y="644">
+<properties>
+<property type="tag" value="0"/>
+<property type="class" value="UIView"/>
+<property type="alpha" value="1"/>
+<property type="enabled" value="true"/>
+<property type="x" value="386"/>
+<property type="y" value="644"/>
+<property type="width" value="350"/>
+<property type="height" value="428"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="388" ignored="false" w="310" web="false" x="406" y="664">
+<properties>
+<property type="tag" value="0"/>
+<property type="class" value="UIView"/>
+<property type="alpha" value="1"/>
+<property type="backgroundColor" value="0x000000"/>
+<property type="enabled" value="true"/>
+<property type="x" value="406"/>
+<property type="y" value="664"/>
+<property type="width" value="310"/>
+<property type="height" value="388"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="260" ignored="false" w="310" web="false" x="406" y="664">
+<properties>
+<property type="tag" value="0"/>
+<property type="class" value="UIImageView"/>
+<property type="knownSuperClass" value="UIImageView"/>
+<property type="alpha" value="1"/>
+<property type="backgroundColor" value="0xFFFFFF"/>
+<property type="enabled" value="false"/>
+<property type="x" value="406"/>
+<property type="y" value="664"/>
+<property type="width" value="310"/>
+<property type="height" value="260"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children/>
+</node>
+<node h="128" ignored="false" w="310" web="false" x="406" y="924">
+<properties>
+<property type="tag" value="0"/>
+<property type="class" value="Daxko_Fit.GradientView"/>
+<property type="alpha" value="1"/>
+<property type="backgroundColor" value="0x000000"/>
+<property type="enabled" value="true"/>
+<property type="x" value="406"/>
+<property type="y" value="924"/>
+<property type="width" value="310"/>
+<property type="height" value="128"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="128" ignored="false" w="310" web="false" x="406" y="924">
+<properties>
+<property type="tag" value="0"/>
+<property type="class" value="UIStackView"/>
+<property type="alpha" value="1"/>
+<property type="enabled" value="true"/>
+<property type="x" value="406"/>
+<property type="y" value="924"/>
+<property type="width" value="310"/>
+<property type="height" value="128"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children>
+<node h="58" ignored="false" w="310" web="false" x="406" y="924">
+<properties>
+<property type="accessibilityLabel" value="Kobo Lifting Gloves with Wrist Support"/>
+<property type="text" value="Kobo Lifting Gloves with Wrist Support"/>
+<property type="tag" value="0"/>
+<property type="class" value="UILabel"/>
+<property type="knownSuperClass" value="UILabel"/>
+<property type="alpha" value="1"/>
+<property type="textColor" value="0x000000"/>
+<property type="enabled" value="true"/>
+<property type="x" value="406"/>
+<property type="y" value="924"/>
+<property type="width" value="310"/>
+<property type="height" value="58"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children/>
+</node>
+<node h="58" ignored="false" w="310" web="false" x="406" y="994">
+<properties>
+<property type="accessibilityLabel" value="$ 360"/>
+<property type="text" value="$ 360"/>
+<property type="tag" value="0"/>
+<property type="class" value="UILabel"/>
+<property type="knownSuperClass" value="UILabel"/>
+<property type="alpha" value="1"/>
+<property type="textColor" value="0x000000"/>
+<property type="enabled" value="true"/>
+<property type="x" value="406"/>
+<property type="y" value="994"/>
+<property type="width" value="310"/>
+<property type="height" value="58"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+<node h="428" ignored="false" w="350" web="false" x="12" y="1096">
+<properties>
+<property type="tag" value="0"/>
+<property type="class" value="Daxko_Fit.ShopCollectionViewCell"/>
+<property type="alpha" value="1"/>
+<property type="enabled" value="true"/>
+<property type="x" value="12"/>
+<property type="y" value="1096"/>
+<property type="width" value="350"/>
+<property type="height" value="428"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="428" ignored="false" w="350" web="false" x="12" y="1096">
+<properties>
+<property type="tag" value="0"/>
+<property type="class" value="UIView"/>
+<property type="alpha" value="1"/>
+<property type="enabled" value="true"/>
+<property type="x" value="12"/>
+<property type="y" value="1096"/>
+<property type="width" value="350"/>
+<property type="height" value="428"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="388" ignored="false" w="310" web="false" x="32" y="1116">
+<properties>
+<property type="tag" value="0"/>
+<property type="class" value="UIView"/>
+<property type="alpha" value="1"/>
+<property type="backgroundColor" value="0x000000"/>
+<property type="enabled" value="true"/>
+<property type="x" value="32"/>
+<property type="y" value="1116"/>
+<property type="width" value="310"/>
+<property type="height" value="388"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="260" ignored="false" w="310" web="false" x="32" y="1116">
+<properties>
+<property type="tag" value="0"/>
+<property type="class" value="UIImageView"/>
+<property type="knownSuperClass" value="UIImageView"/>
+<property type="alpha" value="1"/>
+<property type="backgroundColor" value="0xFFFFFF"/>
+<property type="enabled" value="false"/>
+<property type="x" value="32"/>
+<property type="y" value="1116"/>
+<property type="width" value="310"/>
+<property type="height" value="260"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children/>
+</node>
+<node h="128" ignored="false" w="310" web="false" x="32" y="1376">
+<properties>
+<property type="tag" value="0"/>
+<property type="class" value="Daxko_Fit.GradientView"/>
+<property type="alpha" value="1"/>
+<property type="backgroundColor" value="0x000000"/>
+<property type="enabled" value="true"/>
+<property type="x" value="32"/>
+<property type="y" value="1376"/>
+<property type="width" value="310"/>
+<property type="height" value="128"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="128" ignored="false" w="310" web="false" x="32" y="1376">
+<properties>
+<property type="tag" value="0"/>
+<property type="class" value="UIStackView"/>
+<property type="alpha" value="1"/>
+<property type="enabled" value="true"/>
+<property type="x" value="32"/>
+<property type="y" value="1376"/>
+<property type="width" value="310"/>
+<property type="height" value="128"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="true"/>
+</properties>
+<children>
+<node h="58" ignored="false" w="310" web="false" x="32" y="1376">
+<properties>
+<property type="accessibilityLabel" value="PICKVILL Exercise Ball"/>
+<property type="text" value="PICKVILL Exercise Ball"/>
+<property type="tag" value="0"/>
+<property type="class" value="UILabel"/>
+<property type="knownSuperClass" value="UILabel"/>
+<property type="alpha" value="1"/>
+<property type="textColor" value="0x000000"/>
+<property type="enabled" value="true"/>
+<property type="x" value="32"/>
+<property type="y" value="1376"/>
+<property type="width" value="310"/>
+<property type="height" value="58"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="true"/>
+</properties>
+<children/>
+</node>
+<node h="58" ignored="false" w="310" web="false" x="32" y="1446">
+<properties>
+<property type="accessibilityLabel" value="$ 425"/>
+<property type="text" value="$ 425"/>
+<property type="tag" value="0"/>
+<property type="class" value="UILabel"/>
+<property type="knownSuperClass" value="UILabel"/>
+<property type="alpha" value="1"/>
+<property type="textColor" value="0x000000"/>
+<property type="enabled" value="true"/>
+<property type="x" value="32"/>
+<property type="y" value="1446"/>
+<property type="width" value="310"/>
+<property type="height" value="58"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="true"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+<node h="428" ignored="false" w="350" web="false" x="386" y="1096">
+<properties>
+<property type="tag" value="0"/>
+<property type="class" value="Daxko_Fit.ShopCollectionViewCell"/>
+<property type="alpha" value="1"/>
+<property type="enabled" value="true"/>
+<property type="x" value="386"/>
+<property type="y" value="1096"/>
+<property type="width" value="350"/>
+<property type="height" value="428"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="428" ignored="false" w="350" web="false" x="386" y="1096">
+<properties>
+<property type="tag" value="0"/>
+<property type="class" value="UIView"/>
+<property type="alpha" value="1"/>
+<property type="enabled" value="true"/>
+<property type="x" value="386"/>
+<property type="y" value="1096"/>
+<property type="width" value="350"/>
+<property type="height" value="428"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="388" ignored="false" w="310" web="false" x="406" y="1116">
+<properties>
+<property type="tag" value="0"/>
+<property type="class" value="UIView"/>
+<property type="alpha" value="1"/>
+<property type="backgroundColor" value="0x000000"/>
+<property type="enabled" value="true"/>
+<property type="x" value="406"/>
+<property type="y" value="1116"/>
+<property type="width" value="310"/>
+<property type="height" value="388"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="260" ignored="false" w="310" web="false" x="406" y="1116">
+<properties>
+<property type="tag" value="0"/>
+<property type="class" value="UIImageView"/>
+<property type="knownSuperClass" value="UIImageView"/>
+<property type="alpha" value="1"/>
+<property type="backgroundColor" value="0xFFFFFF"/>
+<property type="enabled" value="false"/>
+<property type="x" value="406"/>
+<property type="y" value="1116"/>
+<property type="width" value="310"/>
+<property type="height" value="260"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children/>
+</node>
+<node h="128" ignored="false" w="310" web="false" x="406" y="1376">
+<properties>
+<property type="tag" value="0"/>
+<property type="class" value="Daxko_Fit.GradientView"/>
+<property type="alpha" value="1"/>
+<property type="backgroundColor" value="0x000000"/>
+<property type="enabled" value="true"/>
+<property type="x" value="406"/>
+<property type="y" value="1376"/>
+<property type="width" value="310"/>
+<property type="height" value="128"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="128" ignored="false" w="310" web="false" x="406" y="1376">
+<properties>
+<property type="tag" value="0"/>
+<property type="class" value="UIStackView"/>
+<property type="alpha" value="1"/>
+<property type="enabled" value="true"/>
+<property type="x" value="406"/>
+<property type="y" value="1376"/>
+<property type="width" value="310"/>
+<property type="height" value="128"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="true"/>
+</properties>
+<children>
+<node h="58" ignored="false" w="310" web="false" x="406" y="1376">
+<properties>
+<property type="accessibilityLabel" value="Vectora B44 Lycra-Spandex Sweat Waist Fat Burner"/>
+<property type="text" value="Vectora B44 Lycra-Spandex Sweat Waist Fat Burner"/>
+<property type="tag" value="0"/>
+<property type="class" value="UILabel"/>
+<property type="knownSuperClass" value="UILabel"/>
+<property type="alpha" value="1"/>
+<property type="textColor" value="0x000000"/>
+<property type="enabled" value="true"/>
+<property type="x" value="406"/>
+<property type="y" value="1376"/>
+<property type="width" value="310"/>
+<property type="height" value="58"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="true"/>
+</properties>
+<children/>
+</node>
+<node h="58" ignored="false" w="310" web="false" x="406" y="1446">
+<properties>
+<property type="accessibilityLabel" value="$ 63"/>
+<property type="text" value="$ 63"/>
+<property type="tag" value="0"/>
+<property type="class" value="UILabel"/>
+<property type="knownSuperClass" value="UILabel"/>
+<property type="alpha" value="1"/>
+<property type="textColor" value="0x000000"/>
+<property type="enabled" value="true"/>
+<property type="x" value="406"/>
+<property type="y" value="1446"/>
+<property type="width" value="310"/>
+<property type="height" value="58"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="true"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+<node h="428" ignored="false" w="350" web="false" x="12" y="1548">
+<properties>
+<property type="tag" value="0"/>
+<property type="class" value="Daxko_Fit.ShopCollectionViewCell"/>
+<property type="alpha" value="1"/>
+<property type="enabled" value="true"/>
+<property type="x" value="12"/>
+<property type="y" value="1548"/>
+<property type="width" value="350"/>
+<property type="height" value="428"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="428" ignored="false" w="350" web="false" x="12" y="1548">
+<properties>
+<property type="tag" value="0"/>
+<property type="class" value="UIView"/>
+<property type="alpha" value="1"/>
+<property type="enabled" value="true"/>
+<property type="x" value="12"/>
+<property type="y" value="1548"/>
+<property type="width" value="350"/>
+<property type="height" value="428"/>
+<property type="hidden" value="false"/>
+<property type="parentHidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="388" ignored="false" w="310" web="false" x="32" y="1568">
+<properties>
+<property type="tag" value="0"/>
+<property type="class" value="UIView"/>
+<property type="alpha" value="1"/>
+<property type="backgroundColor" value="0x000000"/>
+<property type="enabled" value="true"/>
+<property type="x" value="32"/>
+<property type="y" value="1568"/>
+<property type="width" value="310"/>
+<property type="height" value="388"/>
+<property type="hidden" value="false"/>
+<property type="parentHidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="260" ignored="false" w="310" web="false" x="32" y="1568">
+<properties>
+<property type="tag" value="0"/>
+<property type="class" value="UIImageView"/>
+<property type="knownSuperClass" value="UIImageView"/>
+<property type="alpha" value="1"/>
+<property type="backgroundColor" value="0xFFFFFF"/>
+<property type="enabled" value="false"/>
+<property type="x" value="32"/>
+<property type="y" value="1568"/>
+<property type="width" value="310"/>
+<property type="height" value="260"/>
+<property type="hidden" value="false"/>
+<property type="parentHidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children/>
+</node>
+<node h="128" ignored="false" w="310" web="false" x="32" y="1828">
+<properties>
+<property type="tag" value="0"/>
+<property type="class" value="Daxko_Fit.GradientView"/>
+<property type="alpha" value="1"/>
+<property type="backgroundColor" value="0x000000"/>
+<property type="enabled" value="true"/>
+<property type="x" value="32"/>
+<property type="y" value="1828"/>
+<property type="width" value="310"/>
+<property type="height" value="128"/>
+<property type="hidden" value="false"/>
+<property type="parentHidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="128" ignored="false" w="310" web="false" x="32" y="1828">
+<properties>
+<property type="tag" value="0"/>
+<property type="class" value="UIStackView"/>
+<property type="alpha" value="1"/>
+<property type="enabled" value="true"/>
+<property type="x" value="32"/>
+<property type="y" value="1828"/>
+<property type="width" value="310"/>
+<property type="height" value="128"/>
+<property type="hidden" value="false"/>
+<property type="parentHidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="58" ignored="false" w="310" web="false" x="32" y="1828">
+<properties>
+<property type="accessibilityLabel" value="XTRIM X Macho Men's Leather Gym Workout Gloves"/>
+<property type="text" value="XTRIM X Macho Men's Leather Gym Workout Gloves"/>
+<property type="tag" value="0"/>
+<property type="class" value="UILabel"/>
+<property type="knownSuperClass" value="UILabel"/>
+<property type="alpha" value="1"/>
+<property type="textColor" value="0x000000"/>
+<property type="enabled" value="true"/>
+<property type="x" value="32"/>
+<property type="y" value="1828"/>
+<property type="width" value="310"/>
+<property type="height" value="58"/>
+<property type="hidden" value="false"/>
+<property type="parentHidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children/>
+</node>
+<node h="58" ignored="false" w="310" web="false" x="32" y="1898">
+<properties>
+<property type="accessibilityLabel" value="$ 399"/>
+<property type="text" value="$ 399"/>
+<property type="tag" value="0"/>
+<property type="class" value="UILabel"/>
+<property type="knownSuperClass" value="UILabel"/>
+<property type="alpha" value="1"/>
+<property type="textColor" value="0x000000"/>
+<property type="enabled" value="true"/>
+<property type="x" value="32"/>
+<property type="y" value="1898"/>
+<property type="width" value="310"/>
+<property type="height" value="58"/>
+<property type="hidden" value="false"/>
+<property type="parentHidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+<node h="428" ignored="false" w="350" web="false" x="12" y="-258">
+<properties>
+<property type="tag" value="0"/>
+<property type="class" value="Daxko_Fit.ShopCollectionViewCell"/>
+<property type="alpha" value="1"/>
+<property type="enabled" value="true"/>
+<property type="x" value="12"/>
+<property type="y" value="-258"/>
+<property type="width" value="350"/>
+<property type="height" value="428"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="428" ignored="false" w="350" web="false" x="12" y="-258">
+<properties>
+<property type="tag" value="0"/>
+<property type="class" value="UIView"/>
+<property type="alpha" value="1"/>
+<property type="enabled" value="true"/>
+<property type="x" value="12"/>
+<property type="y" value="-258"/>
+<property type="width" value="350"/>
+<property type="height" value="428"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="388" ignored="false" w="310" web="false" x="32" y="-238">
+<properties>
+<property type="tag" value="0"/>
+<property type="class" value="UIView"/>
+<property type="alpha" value="1"/>
+<property type="backgroundColor" value="0x000000"/>
+<property type="enabled" value="true"/>
+<property type="x" value="32"/>
+<property type="y" value="-238"/>
+<property type="width" value="310"/>
+<property type="height" value="388"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="260" ignored="false" w="310" web="false" x="32" y="-238">
+<properties>
+<property type="tag" value="0"/>
+<property type="class" value="UIImageView"/>
+<property type="knownSuperClass" value="UIImageView"/>
+<property type="alpha" value="1"/>
+<property type="backgroundColor" value="0xFFFFFF"/>
+<property type="enabled" value="false"/>
+<property type="x" value="32"/>
+<property type="y" value="-238"/>
+<property type="width" value="310"/>
+<property type="height" value="260"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children/>
+</node>
+<node h="128" ignored="false" w="310" web="false" x="32" y="20">
+<properties>
+<property type="tag" value="0"/>
+<property type="class" value="Daxko_Fit.GradientView"/>
+<property type="alpha" value="1"/>
+<property type="backgroundColor" value="0x000000"/>
+<property type="enabled" value="true"/>
+<property type="x" value="32"/>
+<property type="y" value="20"/>
+<property type="width" value="310"/>
+<property type="height" value="128"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="128" ignored="false" w="310" web="false" x="32" y="20">
+<properties>
+<property type="tag" value="0"/>
+<property type="class" value="UIStackView"/>
+<property type="alpha" value="1"/>
+<property type="enabled" value="true"/>
+<property type="x" value="32"/>
+<property type="y" value="20"/>
+<property type="width" value="310"/>
+<property type="height" value="128"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="58" ignored="false" w="310" web="false" x="32" y="20">
+<properties>
+<property type="accessibilityLabel" value="Fitkit FT200 Series Motorized Treadmill"/>
+<property type="text" value="Fitkit FT200 Series Motorized Treadmill"/>
+<property type="tag" value="0"/>
+<property type="class" value="UILabel"/>
+<property type="knownSuperClass" value="UILabel"/>
+<property type="alpha" value="1"/>
+<property type="textColor" value="0x000000"/>
+<property type="enabled" value="true"/>
+<property type="x" value="32"/>
+<property type="y" value="20"/>
+<property type="width" value="310"/>
+<property type="height" value="58"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children/>
+</node>
+<node h="58" ignored="false" w="310" web="false" x="32" y="90">
+<properties>
+<property type="accessibilityLabel" value="$ 28490"/>
+<property type="text" value="$ 28490"/>
+<property type="tag" value="0"/>
+<property type="class" value="UILabel"/>
+<property type="knownSuperClass" value="UILabel"/>
+<property type="alpha" value="1"/>
+<property type="textColor" value="0x000000"/>
+<property type="enabled" value="true"/>
+<property type="x" value="32"/>
+<property type="y" value="90"/>
+<property type="width" value="310"/>
+<property type="height" value="58"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+<node h="428" ignored="false" w="350" web="false" x="386" y="-258">
+<properties>
+<property type="tag" value="0"/>
+<property type="class" value="Daxko_Fit.ShopCollectionViewCell"/>
+<property type="alpha" value="1"/>
+<property type="enabled" value="true"/>
+<property type="x" value="386"/>
+<property type="y" value="-258"/>
+<property type="width" value="350"/>
+<property type="height" value="428"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="428" ignored="false" w="350" web="false" x="386" y="-258">
+<properties>
+<property type="tag" value="0"/>
+<property type="class" value="UIView"/>
+<property type="alpha" value="1"/>
+<property type="enabled" value="true"/>
+<property type="x" value="386"/>
+<property type="y" value="-258"/>
+<property type="width" value="350"/>
+<property type="height" value="428"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="388" ignored="false" w="310" web="false" x="406" y="-238">
+<properties>
+<property type="tag" value="0"/>
+<property type="class" value="UIView"/>
+<property type="alpha" value="1"/>
+<property type="backgroundColor" value="0x000000"/>
+<property type="enabled" value="true"/>
+<property type="x" value="406"/>
+<property type="y" value="-238"/>
+<property type="width" value="310"/>
+<property type="height" value="388"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="260" ignored="false" w="310" web="false" x="406" y="-238">
+<properties>
+<property type="tag" value="0"/>
+<property type="class" value="UIImageView"/>
+<property type="knownSuperClass" value="UIImageView"/>
+<property type="alpha" value="1"/>
+<property type="backgroundColor" value="0xFFFFFF"/>
+<property type="enabled" value="false"/>
+<property type="x" value="406"/>
+<property type="y" value="-238"/>
+<property type="width" value="310"/>
+<property type="height" value="260"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children/>
+</node>
+<node h="128" ignored="false" w="310" web="false" x="406" y="20">
+<properties>
+<property type="tag" value="0"/>
+<property type="class" value="Daxko_Fit.GradientView"/>
+<property type="alpha" value="1"/>
+<property type="backgroundColor" value="0x000000"/>
+<property type="enabled" value="true"/>
+<property type="x" value="406"/>
+<property type="y" value="20"/>
+<property type="width" value="310"/>
+<property type="height" value="128"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="128" ignored="false" w="310" web="false" x="406" y="20">
+<properties>
+<property type="tag" value="0"/>
+<property type="class" value="UIStackView"/>
+<property type="alpha" value="1"/>
+<property type="enabled" value="true"/>
+<property type="x" value="406"/>
+<property type="y" value="20"/>
+<property type="width" value="310"/>
+<property type="height" value="128"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="58" ignored="false" w="310" web="false" x="406" y="20">
+<properties>
+<property type="accessibilityLabel" value="Healthgenie 3412MT 4 in 1 Manual Treadmill"/>
+<property type="text" value="Healthgenie 3412MT 4 in 1 Manual Treadmill"/>
+<property type="tag" value="0"/>
+<property type="class" value="UILabel"/>
+<property type="knownSuperClass" value="UILabel"/>
+<property type="alpha" value="1"/>
+<property type="textColor" value="0x000000"/>
+<property type="enabled" value="true"/>
+<property type="x" value="406"/>
+<property type="y" value="20"/>
+<property type="width" value="310"/>
+<property type="height" value="58"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children/>
+</node>
+<node h="58" ignored="false" w="310" web="false" x="406" y="90">
+<properties>
+<property type="accessibilityLabel" value="$ 11122"/>
+<property type="text" value="$ 11122"/>
+<property type="tag" value="0"/>
+<property type="class" value="UILabel"/>
+<property type="knownSuperClass" value="UILabel"/>
+<property type="alpha" value="1"/>
+<property type="textColor" value="0x000000"/>
+<property type="enabled" value="true"/>
+<property type="x" value="406"/>
+<property type="y" value="90"/>
+<property type="width" value="310"/>
+<property type="height" value="58"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+<node h="428" ignored="false" w="350" web="false" x="12" y="-710">
+<properties>
+<property type="tag" value="0"/>
+<property type="class" value="Daxko_Fit.ShopCollectionViewCell"/>
+<property type="alpha" value="1"/>
+<property type="enabled" value="true"/>
+<property type="x" value="12"/>
+<property type="y" value="-710"/>
+<property type="width" value="350"/>
+<property type="height" value="428"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="428" ignored="false" w="350" web="false" x="12" y="-710">
+<properties>
+<property type="tag" value="0"/>
+<property type="class" value="UIView"/>
+<property type="alpha" value="1"/>
+<property type="enabled" value="true"/>
+<property type="x" value="12"/>
+<property type="y" value="-710"/>
+<property type="width" value="350"/>
+<property type="height" value="428"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="388" ignored="false" w="310" web="false" x="32" y="-690">
+<properties>
+<property type="tag" value="0"/>
+<property type="class" value="UIView"/>
+<property type="alpha" value="1"/>
+<property type="backgroundColor" value="0x000000"/>
+<property type="enabled" value="true"/>
+<property type="x" value="32"/>
+<property type="y" value="-690"/>
+<property type="width" value="310"/>
+<property type="height" value="388"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="260" ignored="false" w="310" web="false" x="32" y="-690">
+<properties>
+<property type="tag" value="0"/>
+<property type="class" value="UIImageView"/>
+<property type="knownSuperClass" value="UIImageView"/>
+<property type="alpha" value="1"/>
+<property type="backgroundColor" value="0xFFFFFF"/>
+<property type="enabled" value="false"/>
+<property type="x" value="32"/>
+<property type="y" value="-690"/>
+<property type="width" value="310"/>
+<property type="height" value="260"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="true"/>
+</properties>
+<children/>
+</node>
+<node h="128" ignored="false" w="310" web="false" x="32" y="-430">
+<properties>
+<property type="tag" value="0"/>
+<property type="class" value="Daxko_Fit.GradientView"/>
+<property type="alpha" value="1"/>
+<property type="backgroundColor" value="0x000000"/>
+<property type="enabled" value="true"/>
+<property type="x" value="32"/>
+<property type="y" value="-430"/>
+<property type="width" value="310"/>
+<property type="height" value="128"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="128" ignored="false" w="310" web="false" x="32" y="-430">
+<properties>
+<property type="tag" value="0"/>
+<property type="class" value="UIStackView"/>
+<property type="alpha" value="1"/>
+<property type="enabled" value="true"/>
+<property type="x" value="32"/>
+<property type="y" value="-430"/>
+<property type="width" value="310"/>
+<property type="height" value="128"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="true"/>
+</properties>
+<children>
+<node h="58" ignored="false" w="310" web="false" x="32" y="-430">
+<properties>
+<property type="accessibilityLabel" value="AmazonBasics 13mm Extra Thick Yoga and Exercise Mat"/>
+<property type="text" value="AmazonBasics 13mm Extra Thick Yoga and Exercise Mat"/>
+<property type="tag" value="0"/>
+<property type="class" value="UILabel"/>
+<property type="knownSuperClass" value="UILabel"/>
+<property type="alpha" value="1"/>
+<property type="textColor" value="0x000000"/>
+<property type="enabled" value="true"/>
+<property type="x" value="32"/>
+<property type="y" value="-430"/>
+<property type="width" value="310"/>
+<property type="height" value="58"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="true"/>
+</properties>
+<children/>
+</node>
+<node h="58" ignored="false" w="310" web="false" x="32" y="-360">
+<properties>
+<property type="accessibilityLabel" value="$ 999"/>
+<property type="text" value="$ 999"/>
+<property type="tag" value="0"/>
+<property type="class" value="UILabel"/>
+<property type="knownSuperClass" value="UILabel"/>
+<property type="alpha" value="1"/>
+<property type="textColor" value="0x000000"/>
+<property type="enabled" value="true"/>
+<property type="x" value="32"/>
+<property type="y" value="-360"/>
+<property type="width" value="310"/>
+<property type="height" value="58"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="true"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+<node h="428" ignored="false" w="350" web="false" x="386" y="-710">
+<properties>
+<property type="tag" value="0"/>
+<property type="class" value="Daxko_Fit.ShopCollectionViewCell"/>
+<property type="alpha" value="1"/>
+<property type="enabled" value="true"/>
+<property type="x" value="386"/>
+<property type="y" value="-710"/>
+<property type="width" value="350"/>
+<property type="height" value="428"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="428" ignored="false" w="350" web="false" x="386" y="-710">
+<properties>
+<property type="tag" value="0"/>
+<property type="class" value="UIView"/>
+<property type="alpha" value="1"/>
+<property type="enabled" value="true"/>
+<property type="x" value="386"/>
+<property type="y" value="-710"/>
+<property type="width" value="350"/>
+<property type="height" value="428"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="388" ignored="false" w="310" web="false" x="406" y="-690">
+<properties>
+<property type="tag" value="0"/>
+<property type="class" value="UIView"/>
+<property type="alpha" value="1"/>
+<property type="backgroundColor" value="0x000000"/>
+<property type="enabled" value="true"/>
+<property type="x" value="406"/>
+<property type="y" value="-690"/>
+<property type="width" value="310"/>
+<property type="height" value="388"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="260" ignored="false" w="310" web="false" x="406" y="-690">
+<properties>
+<property type="tag" value="0"/>
+<property type="class" value="UIImageView"/>
+<property type="knownSuperClass" value="UIImageView"/>
+<property type="alpha" value="1"/>
+<property type="backgroundColor" value="0xFFFFFF"/>
+<property type="enabled" value="false"/>
+<property type="x" value="406"/>
+<property type="y" value="-690"/>
+<property type="width" value="310"/>
+<property type="height" value="260"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="true"/>
+</properties>
+<children/>
+</node>
+<node h="128" ignored="false" w="310" web="false" x="406" y="-430">
+<properties>
+<property type="tag" value="0"/>
+<property type="class" value="Daxko_Fit.GradientView"/>
+<property type="alpha" value="1"/>
+<property type="backgroundColor" value="0x000000"/>
+<property type="enabled" value="true"/>
+<property type="x" value="406"/>
+<property type="y" value="-430"/>
+<property type="width" value="310"/>
+<property type="height" value="128"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="128" ignored="false" w="310" web="false" x="406" y="-430">
+<properties>
+<property type="tag" value="0"/>
+<property type="class" value="UIStackView"/>
+<property type="alpha" value="1"/>
+<property type="enabled" value="true"/>
+<property type="x" value="406"/>
+<property type="y" value="-430"/>
+<property type="width" value="310"/>
+<property type="height" value="128"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="true"/>
+</properties>
+<children>
+<node h="58" ignored="false" w="310" web="false" x="406" y="-430">
+<properties>
+<property type="accessibilityLabel" value="Brandvilla Yoga Mat"/>
+<property type="text" value="Brandvilla Yoga Mat"/>
+<property type="tag" value="0"/>
+<property type="class" value="UILabel"/>
+<property type="knownSuperClass" value="UILabel"/>
+<property type="alpha" value="1"/>
+<property type="textColor" value="0x000000"/>
+<property type="enabled" value="true"/>
+<property type="x" value="406"/>
+<property type="y" value="-430"/>
+<property type="width" value="310"/>
+<property type="height" value="58"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="true"/>
+</properties>
+<children/>
+</node>
+<node h="58" ignored="false" w="310" web="false" x="406" y="-360">
+<properties>
+<property type="accessibilityLabel" value="$ 399"/>
+<property type="text" value="$ 399"/>
+<property type="tag" value="0"/>
+<property type="class" value="UILabel"/>
+<property type="knownSuperClass" value="UILabel"/>
+<property type="alpha" value="1"/>
+<property type="textColor" value="0x000000"/>
+<property type="enabled" value="true"/>
+<property type="x" value="406"/>
+<property type="y" value="-360"/>
+<property type="width" value="310"/>
+<property type="height" value="58"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="true"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+<node h="120" ignored="false" w="718" web="false" x="16" y="128">
+<properties>
+<property type="tag" value="0"/>
+<property type="class" value="UIView"/>
+<property type="alpha" value="1"/>
+<property type="backgroundColor" value="0xE7F4F4"/>
+<property type="enabled" value="true"/>
+<property type="x" value="16"/>
+<property type="y" value="128"/>
+<property type="width" value="718"/>
+<property type="height" value="120"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="72" ignored="false" w="488" web="false" x="16" y="152">
+<properties>
+<property type="text" value="A-Z"/>
+<property type="tag" value="0"/>
+<property type="class" value="Daxko_Fit.DropDownForTextField"/>
+<property type="knownSuperClass" value="UITextField"/>
+<property type="alpha" value="1"/>
+<property type="textColor" value="0x000000"/>
+<property type="enabled" value="true"/>
+<property type="x" value="16"/>
+<property type="y" value="152"/>
+<property type="width" value="488"/>
+<property type="height" value="72"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children>
+<node h="72" ignored="false" w="488" web="false" x="16" y="152">
+<properties>
+<property type="tag" value="0"/>
+<property type="class" value="_UITextFieldRoundedRectBackgroundViewNeue"/>
+<property type="knownSuperClass" value="UIImageView"/>
+<property type="alpha" value="1"/>
+<property type="enabled" value="false"/>
+<property type="x" value="16"/>
+<property type="y" value="152"/>
+<property type="width" value="488"/>
+<property type="height" value="72"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children/>
+</node>
+<node h="72" ignored="false" w="72" web="false" x="432" y="152">
+<properties>
+<property type="tag" value="0"/>
+<property type="class" value="UIView"/>
+<property type="alpha" value="1"/>
+<property type="enabled" value="true"/>
+<property type="x" value="432"/>
+<property type="y" value="152"/>
+<property type="width" value="72"/>
+<property type="height" value="72"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="72" ignored="false" w="72" web="false" x="432" y="152">
+<properties>
+<property type="tag" value="0"/>
+<property type="class" value="UIView"/>
+<property type="alpha" value="1"/>
+<property type="enabled" value="true"/>
+<property type="x" value="432"/>
+<property type="y" value="152"/>
+<property type="width" value="72"/>
+<property type="height" value="72"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="30" ignored="false" w="30" web="false" x="452" y="172">
+<properties>
+<property type="tag" value="0"/>
+<property type="class" value="Daxko_Fit.Arrow"/>
+<property type="alpha" value="1"/>
+<property type="enabled" value="true"/>
+<property type="x" value="452"/>
+<property type="y" value="172"/>
+<property type="width" value="30"/>
+<property type="height" value="30"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+</children>
+</node>
+<node h="64" ignored="false" w="388" web="false" x="30" y="156">
+<properties>
+<property type="tag" value="0"/>
+<property type="class" value="_UITextFieldContentView"/>
+<property type="alpha" value="1"/>
+<property type="backgroundColor" value="0x000000"/>
+<property type="enabled" value="false"/>
+<property type="x" value="30"/>
+<property type="y" value="156"/>
+<property type="width" value="388"/>
+<property type="height" value="64"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="100" ignored="false" w="100" web="false" x="618" y="138">
+<properties>
+<property type="accessibilityLabel" value="Button"/>
+<property type="tag" value="0"/>
+<property type="class" value="UIButton"/>
+<property type="knownSuperClass" value="UIButton"/>
+<property type="alpha" value="1"/>
+<property type="enabled" value="true"/>
+<property type="x" value="618"/>
+<property type="y" value="138"/>
+<property type="width" value="100"/>
+<property type="height" value="100"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="40" ignored="false" w="44" web="false" x="644" y="168">
+<properties>
+<property type="accessibilityIdentifier" value="iconfinder_Layout_2255652"/>
+<property type="tag" value="0"/>
+<property type="class" value="UIImageView"/>
+<property type="knownSuperClass" value="UIImageView"/>
+<property type="alpha" value="1"/>
+<property type="enabled" value="false"/>
+<property type="x" value="644"/>
+<property type="y" value="168"/>
+<property type="width" value="44"/>
+<property type="height" value="40"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children/>
+</node>
+<node h="40" ignored="false" w="26" web="false" x="676" y="168">
+<properties>
+<property type="accessibilityLabel" value="Button"/>
+<property type="text" value="Button"/>
+<property type="tag" value="0"/>
+<property type="class" value="UIButtonLabel"/>
+<property type="knownSuperClass" value="UILabel"/>
+<property type="alpha" value="1"/>
+<property type="textColor" value="0xFFFFFF"/>
+<property type="enabled" value="true"/>
+<property type="x" value="676"/>
+<property type="y" value="168"/>
+<property type="width" value="26"/>
+<property type="height" value="40"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+<node h="88" ignored="false" w="750" web="false" x="0" y="40">
+<properties>
+<property type="accessibilityIdentifier" value="Daxko Fit Shop"/>
+<property type="tag" value="0"/>
+<property type="class" value="UINavigationBar"/>
+<property type="knownSuperClass" value="UINavigationBar"/>
+<property type="alpha" value="1"/>
+<property type="backgroundColor" value="0x39D3D7"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="40"/>
+<property type="width" value="750"/>
+<property type="height" value="88"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="128" ignored="false" w="750" web="false" x="0" y="0">
+<properties>
+<property type="tag" value="0"/>
+<property type="class" value="_UIBarBackground"/>
+<property type="alpha" value="1"/>
+<property type="enabled" value="false"/>
+<property type="x" value="0"/>
+<property type="y" value="0"/>
+<property type="width" value="750"/>
+<property type="height" value="128"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="0" ignored="false" w="750" web="false" x="0" y="128">
+<properties>
+<property type="tag" value="0"/>
+<property type="class" value="UIImageView"/>
+<property type="knownSuperClass" value="UIImageView"/>
+<property type="alpha" value="1"/>
+<property type="backgroundColor" value="0x000000"/>
+<property type="enabled" value="false"/>
+<property type="x" value="0"/>
+<property type="y" value="128"/>
+<property type="width" value="750"/>
+<property type="height" value="0"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children/>
+</node>
+<node h="128" ignored="false" w="750" web="false" x="0" y="0">
+<properties>
+<property type="tag" value="0"/>
+<property type="class" value="UIVisualEffectView"/>
+<property type="alpha" value="1"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="0"/>
+<property type="width" value="750"/>
+<property type="height" value="128"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="128" ignored="false" w="750" web="false" x="0" y="0">
+<properties>
+<property type="tag" value="0"/>
+<property type="class" value="_UIVisualEffectBackdropView"/>
+<property type="alpha" value="1"/>
+<property type="enabled" value="false"/>
+<property type="x" value="0"/>
+<property type="y" value="0"/>
+<property type="width" value="750"/>
+<property type="height" value="128"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children/>
+</node>
+<node h="128" ignored="false" w="750" web="false" x="0" y="0">
+<properties>
+<property type="tag" value="0"/>
+<property type="class" value="_UIVisualEffectSubview"/>
+<property type="alpha" value="1"/>
+<property type="backgroundColor" value="0xF7F7F7"/>
+<property type="enabled" value="false"/>
+<property type="x" value="0"/>
+<property type="y" value="0"/>
+<property type="width" value="750"/>
+<property type="height" value="128"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+</children>
+</node>
+<node h="0" ignored="false" w="0" web="false" x="0" y="40">
+<properties>
+<property type="tag" value="0"/>
+<property type="class" value="_UINavigationBarLargeTitleView"/>
+<property type="alpha" value="0"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="40"/>
+<property type="width" value="0"/>
+<property type="height" value="0"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="0" ignored="false" w="0" web="false" x="0" y="40">
+<properties>
+<property type="tag" value="0"/>
+<property type="class" value="UILabel"/>
+<property type="knownSuperClass" value="UILabel"/>
+<property type="alpha" value="1"/>
+<property type="textColor" value="0x000000"/>
+<property type="backgroundColor" value="0x000000"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="40"/>
+<property type="width" value="0"/>
+<property type="height" value="0"/>
+<property type="hidden" value="false"/>
+<property type="parentHidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="88" ignored="false" w="750" web="false" x="0" y="40">
+<properties>
+<property type="tag" value="0"/>
+<property type="class" value="_UINavigationBarContentView"/>
+<property type="alpha" value="1"/>
+<property type="textColor" value="0x000000"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="40"/>
+<property type="width" value="750"/>
+<property type="height" value="88"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="88" ignored="false" w="0" web="false" x="734" y="40">
+<properties>
+<property type="tag" value="0"/>
+<property type="class" value="_UIButtonBarStackView"/>
+<property type="alpha" value="1"/>
+<property type="enabled" value="true"/>
+<property type="x" value="734"/>
+<property type="y" value="40"/>
+<property type="width" value="0"/>
+<property type="height" value="88"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="88" ignored="false" w="0" web="false" x="734" y="40">
+<properties>
+<property type="tag" value="0"/>
+<property type="class" value="_UIButtonBarButton"/>
+<property type="alpha" value="1"/>
+<property type="enabled" value="true"/>
+<property type="x" value="734"/>
+<property type="y" value="40"/>
+<property type="width" value="0"/>
+<property type="height" value="88"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="88" ignored="false" w="130" web="false" x="0" y="40">
+<properties>
+<property type="accessibilityLabel" value="Back"/>
+<property type="tag" value="0"/>
+<property type="class" value="_UIButtonBarButton"/>
+<property type="alpha" value="1"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="40"/>
+<property type="width" value="130"/>
+<property type="height" value="88"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="42" ignored="false" w="26" web="false" x="16" y="62">
+<properties>
+<property type="tag" value="0"/>
+<property type="class" value="_UIModernBarButton"/>
+<property type="knownSuperClass" value="UIButton"/>
+<property type="alpha" value="1"/>
+<property type="enabled" value="true"/>
+<property type="x" value="16"/>
+<property type="y" value="62"/>
+<property type="width" value="26"/>
+<property type="height" value="42"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="42" ignored="false" w="26" web="false" x="16" y="62">
+<properties>
+<property type="tag" value="0"/>
+<property type="class" value="UIImageView"/>
+<property type="knownSuperClass" value="UIImageView"/>
+<property type="alpha" value="1"/>
+<property type="enabled" value="false"/>
+<property type="x" value="16"/>
+<property type="y" value="62"/>
+<property type="width" value="26"/>
+<property type="height" value="42"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="88" ignored="false" w="130" web="false" x="0" y="40">
+<properties>
+<property type="tag" value="0"/>
+<property type="class" value="_UIBackButtonContainerView"/>
+<property type="alpha" value="1"/>
+<property type="enabled" value="false"/>
+<property type="x" value="0"/>
+<property type="y" value="40"/>
+<property type="width" value="130"/>
+<property type="height" value="88"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="46" ignored="false" w="76" web="false" x="54" y="58">
+<properties>
+<property type="accessibilityLabel" value="Back"/>
+<property type="tag" value="0"/>
+<property type="class" value="_UIModernBarButton"/>
+<property type="knownSuperClass" value="UIButton"/>
+<property type="alpha" value="1"/>
+<property type="enabled" value="true"/>
+<property type="x" value="54"/>
+<property type="y" value="58"/>
+<property type="width" value="76"/>
+<property type="height" value="46"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="40" ignored="false" w="76" web="false" x="50" y="64">
+<properties>
+<property type="accessibilityLabel" value="Back"/>
+<property type="text" value="Back"/>
+<property type="tag" value="0"/>
+<property type="class" value="UIButtonLabel"/>
+<property type="knownSuperClass" value="UILabel"/>
+<property type="alpha" value="1"/>
+<property type="textColor" value="0x000000"/>
+<property type="enabled" value="true"/>
+<property type="x" value="50"/>
+<property type="y" value="64"/>
+<property type="width" value="76"/>
+<property type="height" value="40"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+<node h="40" ignored="false" w="238" web="false" x="256" y="64">
+<properties>
+<property type="accessibilityLabel" value="Daxko Fit Shop"/>
+<property type="text" value="Daxko Fit Shop"/>
+<property type="tag" value="0"/>
+<property type="class" value="UILabel"/>
+<property type="knownSuperClass" value="UILabel"/>
+<property type="alpha" value="1"/>
+<property type="textColor" value="0x000000"/>
+<property type="backgroundColor" value="0x000000"/>
+<property type="enabled" value="true"/>
+<property type="x" value="256"/>
+<property type="y" value="64"/>
+<property type="width" value="238"/>
+<property type="height" value="40"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="0" ignored="false" w="0" web="false" x="0" y="40">
+<properties>
+<property type="tag" value="0"/>
+<property type="class" value="_UINavigationBarModernPromptView"/>
+<property type="alpha" value="0"/>
+<property type="textColor" value="0x000000"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="40"/>
+<property type="width" value="0"/>
+<property type="height" value="0"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+<node h="1334" ignored="false" w="750" web="false" x="0" y="0">
+<properties>
+<property type="tag" value="0"/>
+<property type="class" value="UITextEffectsWindow"/>
+<property type="knownSuperClass" value="UIWindow"/>
+<property type="alpha" value="1"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="0"/>
+<property type="width" value="750"/>
+<property type="height" value="1334"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="1334" ignored="false" w="750" web="false" x="0" y="0">
+<properties>
+<property type="tag" value="0"/>
+<property type="class" value="UIInputSetContainerView"/>
+<property type="alpha" value="1"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="0"/>
+<property type="width" value="750"/>
+<property type="height" value="1334"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="0" ignored="false" w="750" web="false" x="0" y="1334">
+<properties>
+<property type="tag" value="0"/>
+<property type="class" value="UIInputSetHostView"/>
+<property type="alpha" value="1"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="1334"/>
+<property type="width" value="750"/>
+<property type="height" value="0"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</nodes>
